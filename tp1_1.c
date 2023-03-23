@@ -15,8 +15,5 @@ int main(){
     printf("\ndireccion de memoria del puntero: %d", &puntero);
     printf("\ntamaño de memoria utilizado por la variable: %d", sizeof(x));
 
-
-
-
     return 0;
 }
